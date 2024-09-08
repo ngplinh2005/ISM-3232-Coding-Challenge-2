@@ -1,1 +1,2 @@
-# ISM-3232-Coding-Challenge-2
+Bill Splitter Application
+This project uses JavaScript to build a program that helps diners split their bills, including a tip, based on local tipping customs.
